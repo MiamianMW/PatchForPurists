@@ -5456,7 +5456,7 @@
 <record>
 	<_id>FNAM</_id>
 	<key>ACTI^active_sign_buckmothM_01</key>
-	<val>Buckmoth Fort (back road)</val><!-- TODO -->
+	<val>Buckmoth Fort (back road)</val><!-- ok -->
 </record>
 <record>
 	<_id>FNAM</_id>
@@ -5501,7 +5501,7 @@
 <record>
 	<_id>FNAM</_id>
 	<key>ACTI^active_sign_pelagiadM_01</key>
-	<val>Pelagiad (back road)</val><!-- TODO -->
+	<val>Pelagiad (back road)</val><!-- ok -->
 </record>
 <record>
 	<_id>FNAM</_id>
@@ -5671,12 +5671,12 @@
 <record>
 	<_id>FNAM</_id>
 	<key>ARMO^demon cephalopod</key>
-	<val>Demon Cephalopod Helm</val><!-- TODO -->
+	<val>Demon Cephalopod Helm</val><!-- ok -->
 </record>
 <record>
 	<_id>FNAM</_id>
 	<key>ARMO^demon mole crab</key>
-	<val>Demon Mole Crab Helm</val>
+	<val>Demon Mole Crab Helm</val><!-- ok -->
 </record>
 <record>
 	<_id>FNAM</_id>
@@ -6761,37 +6761,37 @@
 <record>
 	<_id>FNAM</_id>
 	<key>CLOT^BM_Nordic01_gloveL</key>
-	<val>Nordic Left Glove</val><!-- TODO -->
+	<val>Nordic Left Glove</val><!-- ok -->
 </record>
 <record>
 	<_id>FNAM</_id>
 	<key>CLOT^BM_Nordic01_gloveR</key>
-	<val>Nordic Right Glove</val>
+	<val>Nordic Right Glove</val><!-- ok -->
 </record>
 <record>
 	<_id>FNAM</_id>
 	<key>CLOT^BM_Nordic02_gloveL</key>
-	<val>Nordic Left Glove</val>
+	<val>Nordic Left Glove</val><!-- ok -->
 </record>
 <record>
 	<_id>FNAM</_id>
 	<key>CLOT^BM_Nordic02_gloveR</key>
-	<val>Nordic Right Glove</val>
+	<val>Nordic Right Glove</val><!-- ok -->
 </record>
 <record>
 	<_id>FNAM</_id>
 	<key>CLOT^BM_Wool01_gloveL</key>
-	<val>Wool Left Glove</val>
+	<val>Wool Left Glove</val><!-- ok -->
 </record>
 <record>
 	<_id>FNAM</_id>
 	<key>CLOT^BM_Wool01_gloveR</key>
-	<val>Wool Right Glove</val>
+	<val>Wool Right Glove</val><!-- ok -->
 </record>
 <record>
 	<_id>FNAM</_id>
 	<key>CLOT^BM_Wool02_gloveL</key>
-	<val>Wool Left Glove</val>
+	<val>Wool Left Glove</val><!-- ok -->
 </record>
 <record>
 	<_id>FNAM</_id>
@@ -11708,7 +11708,7 @@
 	<_id>INFO</_id>
 	<key>G^Greeting 5^558811033661126883</key>
 	<val>So you have recovered the Amulet of Ashamanu. Urshamusa Rapli told me of her vision. And now you are come. You have done the tribe a great service. But perhaps you may do us a greater service yet. I have heard of an outlander who seeks to fulfill the Nerevarine prophecies, and to be named Nerevarine. Are you that outlander?</val>
-</record><!-- TODO -->
+</record>
 <record>
 	<_id>INFO</_id>
 	<key>G^Greeting 5^566093261903016244</key>
@@ -11773,7 +11773,7 @@
 <record>
 	<_id>INFO</_id>
 	<key>G^Greeting 5^82235685474427401</key>
-	<val>%PCRank %PCName, the healer Urjorad is overdue and presumed dead. He went to the Daedric shrine of Ashalmimilkala with a powerful artifact called the Scroll of Fiercely Roasting. Signs say he has come to grief inside Ashalmimilkala. Go find his body, recover the scroll and return it to us. Or, if you would risk your life to complete the quest that took Urjorad's life, use the scroll to slay Carecalmo, the shrine's ancient High Elf priest, and his powerful High Elf bodyguard Meryaran.</val><!-- TODO -->
+	<val>%PCRank %PCName, the healer Urjorad is overdue and presumed dead. He went to the Daedric shrine of Ashalmimilkala with a powerful artifact called the Scroll of Fiercely Roasting. Signs say he has come to grief inside Ashalmimilkala. Go find his body, recover the scroll and return it to us. Or, if you would risk your life to complete the quest that took Urjorad's life, use the scroll to slay Carecalmo, the shrine's ancient High Elf priest, and his powerful High Elf bodyguard Meryaran.</val>
 </record>
 <record>
 	<_id>INFO</_id>
@@ -11818,7 +11818,7 @@
 <record>
 	<_id>INFO</_id>
 	<key>G^Greeting 6^24701341962156574</key>
-	<val>You kill one of my tribe, and expect to talk, outlander? You are a fool.</val><!-- TODO -->
+	<val>You kill one of my tribe, and expect to talk, outlander? You are a fool.</val>
 </record>
 <record>
 	<_id>INFO</_id>
@@ -12018,7 +12018,7 @@
 <record>
 	<_id>INFO</_id>
 	<key>G^Greeting 9^18689138841671325055</key>
-	<val>What brings you to Tel Vos, %PCName? Is there some specific place here you're looking for?</val><!-- TODO -->
+	<val>What brings you to Tel Vos, %PCName? Is there some specific place here you're looking for?</val>
 </record>
 <record>
 	<_id>INFO</_id>
@@ -12088,7 +12088,7 @@
 <record>
 	<_id>INFO</_id>
 	<key>G^Greeting 9^32176158212008816893</key>
-	<val>Greetings, %PCName. I'm %name. Everyone here in Molag Mar is involved with the Temple outpost or pilgrimages in some way. Is there some specific place nearby you'd like to visit?</val><!-- TODO -->
+	<val>Greetings, %PCName. I'm %name. Everyone here in Molag Mar is involved with the Temple outpost or pilgrimages in some way. Is there some specific place nearby you'd like to visit?</val>
 </record>
 <record>
 	<_id>INFO</_id>
@@ -12099,7 +12099,7 @@
 	<_id>INFO</_id>
 	<key>G^Greeting 9^32712062267936744</key>
 	<val>You still here, stranger? You want someone in particular?</val>
-</record><!-- TODO -->
+</record>
 <record>
 	<_id>INFO</_id>
 	<key>G^Greeting 9^34072753983316925</key>
@@ -13050,7 +13050,7 @@ I am not alone.</val>
 <record>
 	<_id>INFO</_id>
 	<key>J^EB_Actor^5169298942611819916</key>
-	<val>I've decided not to deal with the vendor bothering Miun-Gei.</val><!-- TODO -->
+	<val>I've decided not to deal with the vendor bothering Miun-Gei.</val>
 </record>
 <record>
 	<_id>INFO</_id>
@@ -13335,7 +13335,7 @@ I am not alone.</val>
 <record>
 	<_id>INFO</_id>
 	<key>J^HR_Shurinbaal^3194027223008328872</key>
-	<val>Serjo Athyn Sarethi believes there are smugglers in the cave of Shurinbaal, just southwest down the coast from Gnaar Mok. I must find and kill the leaders of the smugglers, Daroder Helni and Enjine.</val><!-- TODO -->
+	<val>Serjo Athyn Sarethi believes there are smugglers in the cave of Shurinbaal, just southwest down the coast from Gnaar Mok. I must find and kill the leaders of the smugglers, Daroder Helni and Enjine.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
@@ -13345,7 +13345,7 @@ I am not alone.</val>
 <record>
 	<_id>INFO</_id>
 	<key>J^HT_AurielBow^1548114510771218796</key>
-	<val>Mistress Therana scolded me for bringing her Auriel's Bow and then gave me 11,111 gold if I promised to leave.</val><!-- TODO -->
+	<val>Mistress Therana scolded me for bringing her Auriel's Bow and then gave me 11,111 gold if I promised to leave.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
@@ -13355,12 +13355,12 @@ I am not alone.</val>
 <record>
 	<_id>INFO</_id>
 	<key>J^HT_DaedraSkin^25412168641350826411</key>
-	<val>Mouth Galos Mathendis asked me to acquire a Daedra skin and deliver it to Master Aryon in Tel Vos.</val><!-- TODO -->
+	<val>Mouth Galos Mathendis asked me to acquire a Daedra skin and deliver it to Master Aryon in Tel Vos.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
 	<key>J^HT_DrakePride^28229117762658021605</key>
-	<val>House Telvanni: Drake's Pride</val><!-- TODO -->
+	<val>House Telvanni: Drake's Pride</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
@@ -13425,7 +13425,7 @@ I am not alone.</val>
 <record>
 	<_id>INFO</_id>
 	<key>J^HT_RecruitEddie^761624307116345224</key>
-	<val>Now that I have a Mouth to represent me, Master Aryon promised me the rank of Master in House Telvanni.</val><!-- TODO -->
+	<val>Now that I have a Mouth to represent me, Master Aryon promised me the rank of Master in House Telvanni.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
@@ -13445,7 +13445,7 @@ I am not alone.</val>
 <record>
 	<_id>INFO</_id>
 	<key>J^HT_Stronghold^17564172461802620842</key>
-	<val>Llunela Hleran told me that in order to build my stronghold, I must get a construction contract from Duke Vedam Dren. I must also give Llunela two soul gems with strong souls.</val><!-- TODO -->
+	<val>Llunela Hleran told me that in order to build my stronghold, I must get a construction contract from Duke Vedam Dren. I must also give Llunela two soul gems with strong souls.</val>
 </record>
 <record>
 	<_id>INFO</_id>
@@ -13460,7 +13460,7 @@ I am not alone.</val>
 <record>
 	<_id>INFO</_id>
 	<key>J^IC10_merthierry^2348922472176704673</key>
-	<val>Merthierry Laelippe gave me a donation for the Buckmoth Fund.</val><!-- TODO -->
+	<val>Merthierry Laelippe gave me a donation for the Buckmoth Fund.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
@@ -13575,7 +13575,7 @@ I am not alone.</val>
 <record>
 	<_id>INFO</_id>
 	<key>J^IC27_Oracle_A^11068257052639322639</key>
-	<val>Adusamsi Assurnarairan asked me to recover her ring from Llaren Terano, the sorcerer who captured her. She doesn't sound quite right in the head. She thinks the sorcerer may have poisoned her mind with spells. She says she can use the enchantments to escape. She asked me also to free the slaves here. Irvsie Othran has their slave key.</val><!-- TODO -->
+	<val>Adusamsi Assurnarairan asked me to recover her ring from Llaren Terano, the sorcerer who captured her. She doesn't sound quite right in the head. She thinks the sorcerer may have poisoned her mind with spells. She says she can use the enchantments to escape. She asked me also to free the slaves here. Irvsie Othran has their slave key.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
@@ -13710,12 +13710,12 @@ I am not alone.</val>
 <record>
 	<_id>INFO</_id>
 	<key>J^MG_PayDues^15205307771592117917</key>
-	<val>Manwe, a Guild member in Punabi, has not paid any Guild dues in three years. Ranis asked me to find Manwe and collect the dues from her. To get to Punabi, I should go south from Balmora and take the road east past Fort Moonmoth. I should cross the bridge northeast of the Fort and continue east until I reach the lake. The old Dunmer stronghold of Marandus is just south of the lake. Punabi is on the trail that leads northeast from the lake.</val><!-- TODO -->
+	<val>Manwe, a Guild member in Punabi, has not paid any Guild dues in three years. Ranis asked me to find Manwe and collect the dues from her. To get to Punabi, I should go south from Balmora and take the road east past Fort Moonmoth. I should cross the bridge northeast of the Fort and continue east until I reach the lake. The old Dunmer stronghold of Marandus is just south of the lake. Punabi is on the trail that leads northeast from the lake.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
 	<key>J^MG_Potion^3139587441170010072</key>
-	<val>I delivered the Detect Creatures Potion to Edwinna.</val><!-- TODO -->
+	<val>I delivered the Detect Creatures Potion to Edwinna.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
@@ -13730,7 +13730,7 @@ I am not alone.</val>
 <record>
 	<_id>INFO</_id>
 	<key>J^MG_StealBook^10389277391753425384</key>
-	<val>I gave the stolen book Chimarvamidium to Edwinna. She promised to return the book to me later.</val><!-- TODO -->
+	<val>I gave the stolen book Chimarvamidium to Edwinna. She promised to return the book to me later.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
@@ -13740,7 +13740,7 @@ I am not alone.</val>
 <record>
 	<_id>INFO</_id>
 	<key>J^MG_WiseWoman^1602179541029615577</key>
-	<val>Sinnammu Mirpal said she might consider sending her apprentice, Minabibi Assardarainat, to speak with Skink-in-Tree's-Shade. Unfortunately, the apprentice is currently in the Favel Ancestral Tomb, which is west of the Ahemmusa camp. I should follow the coast west from the camp, past the Daedric ruins until I see a cavern. If I reach the ashlands, I have gone too far.</val><!-- TODO -->
+	<val>Sinnammu Mirpal said she might consider sending her apprentice, Minabibi Assardarainat, to speak with Skink-in-Tree's-Shade. Unfortunately, the apprentice is currently in the Favel Ancestral Tomb, which is west of the Ahemmusa camp. I should follow the coast west from the camp, past the Daedric ruins until I see a cavern. If I reach the ashlands, I have gone too far.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
@@ -13880,7 +13880,7 @@ I am not alone.</val>
 <record>
 	<_id>INFO</_id>
 	<key>J^MS_Nuccius^26386197632853930402</key>
-	<val>I bought a cursed ring from Vodunius Nuccius so he would have enough gold to leave Vvardenfell. I hope I have better luck with the ring, and with my adventures in Morrowind, than he did.</val><!-- TODO -->
+	<val>I bought a cursed ring from Vodunius Nuccius so he would have enough gold to leave Vvardenfell. I hope I have better luck with the ring, and with my adventures in Morrowind, than he did.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
@@ -13895,7 +13895,7 @@ I am not alone.</val>
 <record>
 	<_id>INFO</_id>
 	<key>J^MS_Piernette^1087211572809215544</key>
-	<val>The silver bowl I found belonged to Piernette and Armond Beluelle. Armond had received the bowl as a gift from grateful merchants when he drove off bandits attacking one of the East Empire Company's couriers. I returned the bowl to Piernette, and to show her gratitude, she gave me some very useful information about local merchants and how to get the best prices from them.</val><!-- TODO -->
+	<val>The silver bowl I found belonged to Piernette and Armond Beluelle. Armond had received the bowl as a gift from grateful merchants when he drove off bandits attacking one of the East Empire Company's couriers. I returned the bowl to Piernette, and to show her gratitude, she gave me some very useful information about local merchants and how to get the best prices from them.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
@@ -14000,12 +14000,12 @@ I am not alone.</val>
 <record>
 	<_id>INFO</_id>
 	<key>J^MT_DB_Contact^2396186842398313861</key>
-	<val>I spoke with Miun-Gei and asked for his contact in the Dark Brotherhood. Miun-Gei told me to speak with Tsrazami, a Khajiit who is also in the Foreign Quarter. I should report her name to the Grandmaster.</val><!-- TODO -->
+	<val>I spoke with Miun-Gei and asked for his contact in the Dark Brotherhood. Miun-Gei told me to speak with Tsrazami, a Khajiit who is also in the Foreign Quarter. I should report her name to the Grandmaster.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
 	<key>J^MT_DB_Contact^279342862871652646</key>
-	<val>Morag Tong: A Contact in the Dark Brotherhood</val><!-- TODO -->
+	<val>Morag Tong: A Contact in the Dark Brotherhood</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
@@ -14045,12 +14045,12 @@ I am not alone.</val>
 <record>
 	<_id>INFO</_id>
 	<key>J^MT_WritBemis^144202246544019733</key>
-	<val>Morag Tong: Writ for Mathyn Bemis</val><!-- TODO -->
+	<val>Morag Tong: Writ for Mathyn Bemis</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
 	<key>J^MT_WritYasalmibaal^2909151212606414662</key>
-	<val>I have been given a Writ for the honorable execution of Odaishah Yasalmibaal. To get to him, I should take a boat to Tel Aruhn and swim southwest until I reach the coast. Odaishah Yasalmibaal is in a yurt on the coast near the end of a small peninsula.</val><!-- TODO -->
+	<val>I have been given a Writ for the honorable execution of Odaishah Yasalmibaal. To get to him, I should take a boat to Tel Aruhn and swim southwest until I reach the coast. Odaishah Yasalmibaal is in a yurt on the coast near the end of a small peninsula.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
@@ -14205,7 +14205,7 @@ I am not alone.</val>
 <record>
 	<_id>INFO</_id>
 	<key>J^MV_OutcastAshlanders^585764032087932353</key>
-	<val>I have found Emul-Ran and Kashtes Ilabael. They are indeed the thieves who took Girith's hides, and were too proud to say otherwise.</val><!-- TODO -->
+	<val>I have found Emul-Ran and Kashtes Ilabael. They are indeed the thieves who took Girith's hides, and were too proud to say otherwise.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
@@ -14220,7 +14220,7 @@ I am not alone.</val>
 <record>
 	<_id>INFO</_id>
 	<key>J^MV_RecoverWidowmaker^248341958549922150</key>
-	<val>Apparently, Botrir was escorting a young woman, Iveri Llothri, to Tel Aruhn, when she apparently ensorcelled him and took his prized axe, Widowmaker. He is out for the witch's blood, and would like my help in recovering his axe. As she has taken all of his armor, it is no surprise he needs the help. He's big, but doesn't seem too sharp.</val><!-- TODO -->
+	<val>Apparently, Botrir was escorting a young woman, Iveri Llothri, to Tel Aruhn, when she apparently ensorcelled him and took his prized axe, Widowmaker. He is out for the witch's blood, and would like my help in recovering his axe. As she has taken all of his armor, it is no surprise he needs the help. He's big, but doesn't seem too sharp.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
@@ -14230,13 +14230,13 @@ I am not alone.</val>
 <record>
 	<_id>INFO</_id>
 	<key>J^MV_RichTrader^1354429058674025913</key>
-	<val>I ran into a trader, Teris Raledran, while traveling near Vivec. He is trying to get a shipment of clothing to Agrippina Herennia in Vivec. He would like me to escort him and his pack guar, Rollie, and ensure their safety on the way.</val><!-- TODO -->
+	<val>I ran into a trader, Teris Raledran, while traveling near Vivec. He is trying to get a shipment of clothing to Agrippina Herennia in Vivec. He would like me to escort him and his pack guar, Rollie, and ensure their safety on the way.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
 	<key>J^MV_RichTrader^26508111573117819097</key>
 	<val>I've agreed to escort Teris Raledran, and Rollie the Guar, to Vivec. In return, he has agreed to pay me 200 septims for my time.</val>
-</record><!-- TODO -->
+</record><!-- ok -->
 <record>
 	<_id>INFO</_id>
 	<key>J^MV_RunawaySlave^19460180401942327606</key>
@@ -14290,7 +14290,7 @@ I am not alone.</val>
 <record>
 	<_id>INFO</_id>
 	<key>J^MV_SlaveMule^1767727067124512508</key>
-	<val>Now that I have gained Rabinna's confidence, she has told me Helas will likely slaughter her for the drugs once we arrive in Balmora. She feels her only hope of survival is to be taken to Im-Kilaya at the Argonian Mission in Ebonheart. Apparently, Im-Kilaya has been known to help smuggle slaves to freedom.</val><!-- TODO -->
+	<val>Now that I have gained Rabinna's confidence, she has told me Helas will likely slaughter her for the drugs once we arrive in Balmora. She feels her only hope of survival is to be taken to Im-Kilaya at the Argonian Mission in Ebonheart. Apparently, Im-Kilaya has been known to help smuggle slaves to freedom.</val>
 </record>
 <record>
 	<_id>INFO</_id>
@@ -14320,7 +14320,7 @@ I am not alone.</val>
 <record>
 	<_id>INFO</_id>
 	<key>J^MV_ThiefTrader^321069495658528867</key>
-	<val>I met up with Yak gro-Skandar, and delivered the weapons to him. He gave me the 100 septims promised by Lucan Ostorius, and seemed pleased about his goods. It's always good to be able to help a couple of honest traders.</val><!-- TODO -->
+	<val>I met up with Yak gro-Skandar, and delivered the weapons to him. He gave me the 100 septims promised by Lucan Ostorius, and seemed pleased about his goods. It's always good to be able to help a couple of honest traders.</val>
 </record>
 <record>
 	<_id>INFO</_id>
@@ -14335,7 +14335,7 @@ I am not alone.</val>
 <record>
 	<_id>INFO</_id>
 	<key>J^MV_TraderAbandoned^1810328139569724665</key>
-	<val>I met Pemenie, a Redguard trader, while traveling west of Caldera. She would like help getting a shipment of goods to Gnaar Mok. Seems her escort abandoned her on the trip.</val><!-- TODO -->
+	<val>I met Pemenie, a Redguard trader, while traveling west of Caldera. She would like help getting a shipment of goods to Gnaar Mok. Seems her escort abandoned her on the trip.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
@@ -14395,7 +14395,7 @@ I am not alone.</val>
 <record>
 	<_id>INFO</_id>
 	<key>J^TG_EbonyStaff^220851615973896188</key>
-	<val>Big Helende told me that Felen Maryon has an enchanted ebony staff she'd like stolen.</val><!-- TODO -->
+	<val>Big Helende told me that Felen Maryon has an enchanted ebony staff she'd like stolen.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
@@ -14445,7 +14445,7 @@ I am not alone.</val>
 <record>
 	<_id>INFO</_id>
 	<key>J^TR08_Hlaalu_Berano^27858302242648620418</key>
-	<val>I warned Forven Berano that Tienius Delitian had evidence of his conspiracy, and that a writ for his execution had been issued. Forven Berano thanked me and teleported away to safety. Now I'll have to persuade Delitian that someone in the Palace must have warned Forven Berano and enabled him to escape.</val><!-- TODO -->
+	<val>I warned Forven Berano that Tienius Delitian had evidence of his conspiracy, and that a writ for his execution had been issued. Forven Berano thanked me and teleported away to safety. Now I'll have to persuade Delitian that someone in the Palace must have warned Forven Berano and enabled him to escape.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
@@ -14570,17 +14570,17 @@ I am not alone.</val>
 <record>
 	<_id>INFO</_id>
 	<key>J^TT_MinistryHeathen^3074224626197626056</key>
-	<val>Temple: Cure the Outcast Ashlander</val><!-- TODO -->
+	<val>Temple: Cure the Outcast Ashlander</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
 	<key>J^TT_SanctusShrine^10416306992991522938</key>
-	<val>Endryn Llethan wants me to make the Pilgrimage to the Sanctus Shrine west of Dagon Fel. I must travel there on foot without speaking to anyone. As the waters of Sheogorad can be dangerous, Endryn Llethan suggested that I purchase some potions of levitation.</val><!-- TODO -->
+	<val>Endryn Llethan wants me to make the Pilgrimage to the Sanctus Shrine west of Dagon Fel. I must travel there on foot without speaking to anyone. As the waters of Sheogorad can be dangerous, Endryn Llethan suggested that I purchase some potions of levitation.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
 	<key>J^TT_SanctusShrine^2629427521567132559</key>
-	<val>Endryn Llethan swore me to silence. I must travel to the Sanctus Shrine west of Dagon Fel under a strict oath of silence.</val><!-- TODO -->
+	<val>Endryn Llethan swore me to silence. I must travel to the Sanctus Shrine west of Dagon Fel under a strict oath of silence.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
@@ -14715,7 +14715,7 @@ I am not alone.</val>
 <record>
 	<_id>INFO</_id>
 	<key>J^blades_Gildan^241918648177583706</key>
-	<val>Gildan recommended I see Wayn at the Balmora Guild of Fighters. He sells jink blades which Paralyze and spider blades which poison. She says they aren't honorable weapons, and most smiths don't sell them.</val><!-- TODO -->
+	<val>Gildan recommended I see Wayn at the Balmora Guild of Fighters. He sells jink blades which Paralyze and spider blades which poison. She says they aren't honorable weapons, and most smiths don't sell them.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
@@ -14835,7 +14835,7 @@ I am not alone.</val>
 <record>
 	<_id>INFO</_id>
 	<key>T^Abolitionists^184722846711832269</key>
-	<val>It's the law of Morrowind. Slavery is legal. The Empire doesn't like it, but the Emperor signed the Armistice, and that made it legal for us to retain our ancient laws and customs. Now, there's some Abolitionists who say, "To hell with the law... slavery is wrong." I'm not saying I disagree, in theory. But it's the law.</val><!-- TODO -->
+	<val>It's the law of Morrowind. Slavery is legal. The Empire doesn't like it, but the Emperor signed the Armistice, and that made it legal for us to retain our ancient laws and customs. Now, there's some Abolitionists who say, "To hell with the law... slavery is wrong." I'm not saying I disagree, in theory. But it's the law.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
@@ -15350,27 +15350,27 @@ I am not alone.</val>
 <record>
 	<_id>INFO</_id>
 	<key>T^Balmora^10959198361053430143</key>
-	<val>Balmora is the district seat of House Hlaalu, and the largest settlement on Vvardenfell after Vivec City. Good roads lead north to Ald'ruhn and Caldera and south to Pelagiad, Seyda Neen, and Vivec City. The Imperial Legion garrison of Fort Moonmoth lies south of Balmora.</val><!-- TODO -->
+	<val>Balmora is the district seat of House Hlaalu, and the largest settlement on Vvardenfell after Vivec City. Good roads lead north to Ald'ruhn and Caldera and south to Pelagiad, Seyda Neen, and Vivec City. The Imperial Legion garrison of Fort Moonmoth lies south of Balmora.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
 	<key>T^Balmora^25863112601509613324</key>
-	<val>Good roads lead north to Ald'ruhn and Caldera and south to Pelagiad, Seyda Neen, and Vivec City.</val><!-- TODO -->
+	<val>Good roads lead north to Ald'ruhn and Caldera and south to Pelagiad, Seyda Neen, and Vivec City.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
 	<key>T^Balmora^296717430262844568</key>
-	<val>Good roads lead north to Ald'ruhn and Caldera and south to Pelagiad, Seyda Neen, and Vivec City.</val>
+	<val>Good roads lead north to Ald'ruhn and Caldera and south to Pelagiad, Seyda Neen, and Vivec City.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
 	<key>T^Balmora^30686315042945932084</key>
-	<val>Good roads lead north to Ald'ruhn and Caldera and south to Pelagiad, Seyda Neen, and Vivec City.</val>
+	<val>Good roads lead north to Ald'ruhn and Caldera and south to Pelagiad, Seyda Neen, and Vivec City.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
 	<key>T^Balmora^939423851316845892</key>
-	<val>Balmora is the Council Seat of Great House Hlaalu, and the largest town on Vvardenfell except for Vivec City. Located on the Odai River, and sitting astride the Ald'ruhn-Vivec road, Balmora is an important mercantile trade and travel center. High Town is the administrative center, with the Temple and manor houses. The shops, guilds, and tradehouses of the Commercial District are west of the river; Labor Town's modest cornerclubs and homes are east of the river.</val>
+	<val>Balmora is the Council Seat of Great House Hlaalu, and the largest town on Vvardenfell except for Vivec City. Located on the Odai River, and sitting astride the Ald'ruhn-Vivec road, Balmora is an important mercantile trade and travel center. High Town is the administrative center, with the Temple and manor houses. The shops, guilds, and tradehouses of the Commercial District are west of the river; Labor Town's modest cornerclubs and homes are east of the river.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
@@ -15435,7 +15435,7 @@ I am not alone.</val>
 <record>
 	<_id>INFO</_id>
 	<key>T^Beluelle's silver bowl^123094218728210030</key>
-	<val>My friend, Piernette Beluelle, had a silver bowl stolen. This must be the same one. You must go speak with Piernette. Best if you start from a familiar landmark -- the north entrance to the Foreign Quarter of Vivec. Due north from the bridge to the Foreign Quarter of Vivec is an east-west wooden bridge across a lagoon. Cross the bridge east, then follow the path as it heads north. You'll pass Nilera's farmhouse on the left, and the next house north will be Piernette's farmhouse.</val><!-- TODO -->
+	<val>My friend, Piernette Beluelle, had a silver bowl stolen. This must be the same one. You must go speak with Piernette. Best if you start from a familiar landmark -- the north entrance to the Foreign Quarter of Vivec. Due north from the bridge to the Foreign Quarter of Vivec is an east-west wooden bridge across a lagoon. Cross the bridge east, then follow the path as it heads north. You'll pass Nilera's farmhouse on the left, and the next house north will be Piernette's farmhouse.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
@@ -15525,7 +15525,7 @@ I am not alone.</val>
 <record>
 	<_id>INFO</_id>
 	<key>T^Blades Trainers^2820632185475114180</key>
-	<val>These Blades agents offer training... not free, of course, but cheap for a fellow agent. Look for Rithleen, Tyermaillin, and Nine-Toes here in Balmora. In Caldera, see Surane Leoriane. In Ald'ruhn, see Gildan. Sjorvar Horse-Mouth lives in a hut west of Caldera. And Elone the Scout can be found at Arrille's Tradehouse in Seyda Neen.</val><!-- TODO -->
+	<val>These Blades agents offer training... not free, of course, but cheap for a fellow agent. Look for Rithleen, Tyermaillin, and Nine-Toes here in Balmora. In Caldera, see Surane Leoriane. In Ald'ruhn, see Gildan. Sjorvar Horse-Mouth lives in a hut west of Caldera. And Elone the Scout can be found at Arrille's Tradehouse in Seyda Neen.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
@@ -15770,22 +15770,22 @@ I am not alone.</val>
 <record>
 	<_id>INFO</_id>
 	<key>T^Caldera^1670368481923929803</key>
-	<val>Caldera is a recently chartered Imperial town and mining corporation. Pay a guild guide at the Guild of Mages in the Foreign Quarter of Vivec for transport to Caldera. The Governor's Hall is a large building in the northeast corner of Caldera.</val><!-- TODO -->
+	<val>Caldera is a recently chartered Imperial town and mining corporation. Pay a guild guide at the Guild of Mages in the Foreign Quarter of Vivec for transport to Caldera. The Governor's Hall is a large building in the northeast corner of Caldera.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
 	<key>T^Caldera^30726217001556620724</key>
-	<val>Caldera is a recently chartered Imperial town and mining corporation. Pay a guild guide at the Guild of Mages in the Foreign Quarter of Vivec for transport to Caldera. The Governor's Hall is a large building in the northeast corner of Caldera.</val><!-- TODO -->
+	<val>Caldera is a recently chartered Imperial town and mining corporation. Pay a guild guide at the Guild of Mages in the Foreign Quarter of Vivec for transport to Caldera. The Governor's Hall is a large building in the northeast corner of Caldera.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
 	<key>T^Caldera^3731293239155459</key>
-	<val>Caldera is a mining town north of Balmora. Travel by guild guide is the best method. Head north from Ebonheart by road, take the bridge into Vivec's Hlaalu Compound, pass through Redoran Compound, find the Guild of Mages on the upper level of the Foreign Quarter. Pay a guild guide at the Guild of Mages for transport to Caldera.</val><!-- TODO -->
+	<val>Caldera is a mining town north of Balmora. Travel by guild guide is the best method. Head north from Ebonheart by road, take the bridge into Vivec's Hlaalu Compound, pass through Redoran Compound, find the Guild of Mages on the upper level of the Foreign Quarter. Pay a guild guide at the Guild of Mages for transport to Caldera.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
 	<key>T^Caldera^3934194392259428185</key>
-	<val>Caldera is a mining town north of Balmora. Travel by guild guide is the best method. Head north from Ebonheart by road, take the bridge into Vivec's Hlaalu Compound, pass through Redoran Compound, find the Guild of Mages on the upper level of the Foreign Quarter. Pay a guild guide at the Guild of Mages for transport to Caldera.</val><!-- TODO -->
+	<val>Caldera is a mining town north of Balmora. Travel by guild guide is the best method. Head north from Ebonheart by road, take the bridge into Vivec's Hlaalu Compound, pass through Redoran Compound, find the Guild of Mages on the upper level of the Foreign Quarter. Pay a guild guide at the Guild of Mages for transport to Caldera.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
@@ -15870,7 +15870,7 @@ I am not alone.</val>
 <record>
 	<_id>INFO</_id>
 	<key>T^Chronicles of Nchuleft^183046666343215</key>
-	<val>Try Jobasha's Rare Books in the Foreign Quarter.</val><!-- TODO -->
+	<val>Try Jobasha's Rare Books in the Foreign Quarter.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
@@ -16235,7 +16235,7 @@ I am not alone.</val>
 <record>
 	<_id>INFO</_id>
 	<key>T^Darts of Judgement^255911509131683354</key>
-	<val>Eindel has four Darts of Judgement. They're very rare missiles made in my home province of Valenwood. Eindel is a guard at Llethri Manor in Ald'ruhn. If you find the Darts there, feel free to use them, but the Guild will pay good money if you don't want them.</val><!-- TODO -->
+	<val>Eindel has four Darts of Judgement. They're very rare missiles made in my home province of Valenwood. Eindel is a guard at Llethri Manor in Ald'ruhn. If you find the Darts there, feel free to use them, but the Guild will pay good money if you don't want them.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
@@ -16260,7 +16260,7 @@ I am not alone.</val>
 <record>
 	<_id>INFO</_id>
 	<key>T^Disappearance of the Dwarves^16403466167527813</key>
-	<val>Well, I'm glad that the mystery is solved at last. Next time the Arch-Mage of Mournhold visits, I'll really have something to brag about.</val><!-- TODO -->
+	<val>Well, I'm glad that the mystery is solved at last. Next time the Arch-Mage of Mournhold visits, I'll really have something to brag about.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
@@ -16445,7 +16445,7 @@ I am not alone.</val>
 <record>
 	<_id>INFO</_id>
 	<key>T^Dura gra-Bol^173965674313098995</key>
-	<val>She lives in town somewhere. Look around, you lazy fetcher.</val><!-- TODO -->
+	<val>She lives in town somewhere. Look around, you lazy fetcher.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
@@ -16780,7 +16780,7 @@ I am not alone.</val>
 <record>
 	<_id>INFO</_id>
 	<key>T^Ethal Seloth^42299391175325156</key>
-	<val>I heard how you brought justice to Ethal Seloth and Idroso Vendu. You deserve the payment and honor of this Writ.</val><!-- TODO -->
+	<val>I heard how you brought justice to Ethal Seloth and Idroso Vendu. You deserve the payment and honor of this Writ.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
@@ -17085,12 +17085,12 @@ I am not alone.</val>
 <record>
 	<_id>INFO</_id>
 	<key>T^Gentleman Jim Stacey^33981028295941780</key>
-	<val>Look for him in Vivec. You'll find him in the back room of Simine Fralinie's bookstore in the Foreign Quarter.</val><!-- TODO -->
+	<val>Look for him in Vivec. You'll find him in the back room of Simine Fralinie's bookstore in the Foreign Quarter.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
 	<key>T^Gentleman Jim Stacey^9744266671311225333</key>
-	<val>Look for him in Vivec. You'll find him in the back room of Simine Fralinie's bookstore in the Foreign Quarter.</val>
+	<val>Look for him in Vivec. You'll find him in the back room of Simine Fralinie's bookstore in the Foreign Quarter.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
@@ -17365,17 +17365,17 @@ I am not alone.</val>
 <record>
 	<_id>INFO</_id>
 	<key>T^House Indoril^16166129550895167</key>
-	<val>House Indoril is one of the five Dunmer Great Houses, and one of the two houses without holdings or interest in Vvardenfell. The city of Mournhold is located in Indoril District, and the Indoril are orthodox and conservative supporters of the Temple and Temple authority. House Indoril is openly hostile to Imperial culture and religion, and preserves many traditional Dunmer customs and practices in defiance of Imperial law.</val><!-- TODO -->
+	<val>House Indoril is one of the five Dunmer Great Houses, and one of the two houses without holdings or interest in Vvardenfell. The city of Mournhold is located in Indoril District, and the Indoril are orthodox and conservative supporters of the Temple and Temple authority. House Indoril is openly hostile to Imperial culture and religion, and preserves many traditional Dunmer customs and practices in defiance of Imperial law.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
 	<key>T^House Indoril^185649903810118615</key>
-	<val>House Indoril is one of the five Dunmer Great Houses, and one of the two houses without holdings or interest in Vvardenfell. The city of Mournhold is located in Indoril District, and the Indoril are orthodox and conservative supporters of the Temple and Temple authority. House Indoril is openly hostile to Imperial culture and religion, and preserves many traditional Dunmer customs and practices in defiance of Imperial law.</val>
+	<val>House Indoril is one of the five Dunmer Great Houses, and one of the two houses without holdings or interest in Vvardenfell. The city of Mournhold is located in Indoril District, and the Indoril are orthodox and conservative supporters of the Temple and Temple authority. House Indoril is openly hostile to Imperial culture and religion, and preserves many traditional Dunmer customs and practices in defiance of Imperial law.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
 	<key>T^House Indoril^465170372761719236</key>
-	<val>The city of Mournhold is located in Indoril District, on the mainland, and the Indoril are orthodox and conservative supporters of the Temple and Temple authority.</val>
+	<val>The city of Mournhold is located in Indoril District, on the mainland, and the Indoril are orthodox and conservative supporters of the Temple and Temple authority.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
@@ -18265,7 +18265,7 @@ I am not alone.</val>
 <record>
 	<_id>INFO</_id>
 	<key>T^Morrowind lore^7872300952106818731</key>
-	<val>About 50% of Vvardenfell's inhabitants are Dunmer. The other half are Redguard, Breton, Nord, Altmer, Bosmer, Imperial, Khajiit, Argonian, and Orc in roughly equal proportion.</val><!-- TODO -->
+	<val>About 50% of Vvardenfell's inhabitants are Dunmer. The other half are Redguard, Breton, Nord, Altmer, Bosmer, Imperial, Khajiit, Argonian, and Orc in roughly equal proportion.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
@@ -18355,12 +18355,12 @@ I am not alone.</val>
 <record>
 	<_id>INFO</_id>
 	<key>T^Mouth^258695568698630613</key>
-	<val>You have found a Mouth to represent you on the Council. As your protege, Fast Eddie will do chores for you. I am pleased to see my own protege rise so quickly through the ranks of House Telvanni. Soon it will be time for your advancement to the rank of Master. Please accept this glove. It was one of my first successful enchantments.</val>
+	<val>You have found a Mouth to represent you on the Council. As your protege, Fast Eddie will do chores for you. I am pleased to see my own protege rise so quickly through the ranks of House Telvanni. Soon it will be time for your advancement to the rank of Master. Please accept this glove. It was one of my first successful enchantments.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
 	<key>T^Mouth^6094141332621129897</key>
-	<val>I am a Mouth in House Telvanni. I speak the words of my patron here in the Telvanni Council.</val><!-- TODO -->
+	<val>I am a Mouth in House Telvanni. I speak the words of my patron here in the Telvanni Council.</val>
 </record>
 <record>
 	<_id>INFO</_id>
@@ -18545,7 +18545,7 @@ I am not alone.</val>
 <record>
 	<_id>INFO</_id>
 	<key>T^Odaishah Yasalmibaal^29811176652328127737</key>
-	<val>An honorable Writ has been issued by a noble of House Telvanni for the Ashlander Odaishah Yasalmibaal. It will be more trouble tracking him down than killing him. Take a boat from Sadrith Mora to Tel Aruhn. Swim southwest until you reach the coast. Odaishah Yasalmibaal has built his yurt right on the coast near the end of a small peninsula.</val><!-- TODO -->
+	<val>An honorable Writ has been issued by a noble of House Telvanni for the Ashlander Odaishah Yasalmibaal. It will be more trouble tracking him down than killing him. Take a boat from Sadrith Mora to Tel Aruhn. Swim southwest until you reach the coast. Odaishah Yasalmibaal has built his yurt right on the coast near the end of a small peninsula.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
@@ -18625,7 +18625,7 @@ I am not alone.</val>
 <record>
 	<_id>INFO</_id>
 	<key>T^Orders^1937259083260119688</key>
-	<val>Nar gro-Shagramph said he'd deliver a ring to Ranes Ienith, but he hasn't delivered. Go talk to Nar gro-Shagramph and bring the Juicedaw Feather Ring to me.</val><!-- TODO -->
+	<val>Nar gro-Shagramph said he'd deliver a ring to Ranes Ienith, but he hasn't delivered. Go talk to Nar gro-Shagramph and bring the Juicedaw Feather Ring to me.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
