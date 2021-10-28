@@ -37615,7 +37615,7 @@ I am passing along orders from Therana that two crates of steel armor be deliver
 Mollismo<BR>
 </val>
 </record>
-<record>
+<record><!-- TODO -->
 	<_id>TEXT</_id>
 	<key>bk_provinces_of_tamriel</key>
 	<val><DIV ALIGN="CENTER"><FONT COLOR="000000" SIZE="3" FACE="Magic Cards"><BR>
@@ -38032,12 +38032,12 @@ By my will I cleanse myself of the red sands.<P>
 <record>
 	<_id>TEXT</_id>
 	<key>sc_elementalburstfire</key>
-	<val><DIV ALIGN="center"><FONT COLOR="000000" SIZE="2" FACE="Daedric">IGNITE THE OPPOSITION</FONT><BR></val>
+	<val><DIV ALIGN="center"><FONT COLOR="000000" SIZE="2" FACE="Daedric">IGNITE THE OPPOSITION</FONT><BR></val><!-- ok -->
 </record>
 <record>
 	<_id>TEXT</_id>
 	<key>sc_elementalburstfrost</key>
-	<val><DIV ALIGN="center"><FONT COLOR="000000" SIZE="2" FACE="Daedric">CRUSH YOUR ENEMIES</FONT><BR></val><!-- TODO -->
+	<val><DIV ALIGN="center"><FONT COLOR="000000" SIZE="2" FACE="Daedric">CRUSH YOUR ENEMIES</FONT><BR></val><!-- ok -->
 </record>
 <record>
 	<_id>TEXT</_id>

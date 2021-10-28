@@ -5716,7 +5716,7 @@
 <record>
 	<_id>BNAM</_id>
 	<key>253165079376113390^Choice: "Go on..." 3 "What a silly girl. I've no time for this foolishness." 4</key>
-	<val>253165079376113390^Choice: Mów dalej..." 3 "G³upia dziewczyna. Nie mam czasu na takie bzdury." 4</val>
+	<val>253165079376113390^Choice: "Mów dalej..." 3 "G³upia dziewczyna. Nie mam czasu na takie bzdury." 4</val>
 </record>
 <record>
 	<_id>BNAM</_id>
@@ -6556,27 +6556,27 @@
 <record>
 	<_id>SCTX</_id>
 	<key>shrineGhostgate^		MessageBox "Would you like to donate a Common Soul Gem and ask for a blessing?" "Yes" "No"</key>
-	<val>shrineGhostgate^		MessageBox "Czy chcesz z³o¿yæ w ofierze zwyk³y klejnot duszy i prosiæ o b³ogos³awieñstwo?" "Tak" Nie"</val>
+	<val>shrineGhostgate^		MessageBox "Czy chcesz z³o¿yæ w ofierze zwyk³y klejnot duszy i prosiæ o b³ogos³awieñstwo?" "Tak" "Nie"</val>
 </record>
 <record>
 	<_id>SCTX</_id>
 	<key>shrineGhostgate^		MessageBox "Would you like to donate a Grand Soul Gem and ask for a blessing?" "Yes" "No"</key>
-	<val>shrineGhostgate^		MessageBox "Czy chcesz z³o¿yæ w ofierze wielki klejnot duszy i prosiæ o b³ogos³awieñstwo?" "Tak" Nie"</val>
+	<val>shrineGhostgate^		MessageBox "Czy chcesz z³o¿yæ w ofierze wielki klejnot duszy i prosiæ o b³ogos³awieñstwo?" "Tak" "Nie"</val>
 </record>
 <record>
 	<_id>SCTX</_id>
 	<key>shrineGhostgate^		MessageBox "Would you like to donate a Greater Soul Gem and ask for a blessing?" "Yes" "No"</key>
-	<val>shrineGhostgate^		MessageBox "Czy chcesz z³o¿yæ w ofierze wiêkszy klejnot duszy i prosiæ o b³ogos³awieñstwo?" "Tak" Nie"</val>
+	<val>shrineGhostgate^		MessageBox "Czy chcesz z³o¿yæ w ofierze wiêkszy klejnot duszy i prosiæ o b³ogos³awieñstwo?" "Tak" "Nie"</val>
 </record>
 <record>
 	<_id>SCTX</_id>
 	<key>shrineGhostgate^		MessageBox "Would you like to donate a Lesser Soul Gem and ask for a blessing?" "Yes" "No"</key>
-	<val>shrineGhostgate^		MessageBox "Czy chcesz z³o¿yæ w ofierze ma³y klejnot duszy i prosiæ o b³ogos³awieñstwo?" "Tak" Nie"</val>
+	<val>shrineGhostgate^		MessageBox "Czy chcesz z³o¿yæ w ofierze ma³y klejnot duszy i prosiæ o b³ogos³awieñstwo?" "Tak" "Nie"</val>
 </record>
 <record>
 	<_id>SCTX</_id>
 	<key>shrineGhostgate^		MessageBox "Would you like to donate a Petty Soul Gem and ask for a blessing?" "Yes" "No"</key>
-	<val>shrineGhostgate^		MessageBox "Czy chcesz z³o¿yæ w ofierze nêdzny klejnot duszy i prosiæ o b³ogos³awieñstwo?" "Tak" Nie"</val>
+	<val>shrineGhostgate^		MessageBox "Czy chcesz z³o¿yæ w ofierze nêdzny klejnot duszy i prosiæ o b³ogos³awieñstwo?" "Tak" "Nie"</val>
 </record>
 <record>
 	<_id>SCTX</_id>
