@@ -9551,7 +9551,7 @@
 <record>
 	<_id>INFO</_id>
 	<key>G^Greeting 1^1132280562115717972</key>
-	<val>For our fallen brother, we claim our revenge.</val><!-- TODO -->
+	<val>For our fallen brother, we claim our revenge.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
@@ -9816,7 +9816,7 @@
 <record>
 	<_id>INFO</_id>
 	<key>G^Greeting 1^15426187532210112703</key>
-	<val>What? What use is speech? If you will not submit, you must be destroyed.</val><!-- TODO -->
+	<val>What? What use is speech? If you will not submit, you must be destroyed.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
@@ -9836,7 +9836,7 @@
 <record>
 	<_id>INFO</_id>
 	<key>G^Greeting 1^15861218371456629510</key>
-	<val>For our fallen brother, we claim our revenge.</val><!-- TODO -->
+	<val>For our fallen brother, we claim our revenge.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
@@ -10221,7 +10221,7 @@
 <record>
 	<_id>INFO</_id>
 	<key>G^Greeting 1^2282523054443129879</key>
-	<val>What? What use is speech? If you will not submit, you must be destroyed.</val><!-- TODO -->
+	<val>What? What use is speech? If you will not submit, you must be destroyed.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
@@ -10331,7 +10331,7 @@
 <record>
 	<_id>INFO</_id>
 	<key>G^Greeting 1^2528767161801528932</key>
-	<val>What? What use is speech? If you will not submit, you must be destroyed.</val><!-- TODO -->
+	<val>What? What use is speech? If you will not submit, you must be destroyed.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
@@ -10706,7 +10706,7 @@
 <record>
 	<_id>INFO</_id>
 	<key>G^Greeting 1^3128029174250353888</key>
-	<val>For our fallen brother, we claim our revenge.</val><!-- TODO -->
+	<val>For our fallen brother, we claim our revenge.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
@@ -10721,7 +10721,7 @@
 <record>
 	<_id>INFO</_id>
 	<key>G^Greeting 1^31514197133829476</key>
-	<val>What? What use is speech? If you will not submit, you must be destroyed.</val><!-- TODO -->
+	<val>What? What use is speech? If you will not submit, you must be destroyed.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
@@ -10901,7 +10901,7 @@
 <record>
 	<_id>INFO</_id>
 	<key>G^Greeting 1^5239278322309231516</key>
-	<val>For our fallen brother, we claim our revenge.</val><!-- TODO -->
+	<val>For our fallen brother, we claim our revenge.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
@@ -11061,7 +11061,7 @@
 <record>
 	<_id>INFO</_id>
 	<key>G^Greeting 1^866528276202171347</key>
-	<val>For our fallen brother, we claim our revenge.</val><!-- TODO -->
+	<val>For our fallen brother, we claim our revenge.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
@@ -11081,7 +11081,7 @@
 <record>
 	<_id>INFO</_id>
 	<key>G^Greeting 1^9182100292113015600</key>
-	<val>What? What use is speech? If you will not submit, you must be destroyed.</val><!-- TODO -->
+	<val>What? What use is speech? If you will not submit, you must be destroyed.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
@@ -11317,7 +11317,7 @@
 	<_id>INFO</_id>
 	<key>G^Greeting 5^1371319345227026507</key>
 	<val>%Rank %PCName, the healer Urjorad is (...) --- arvisrend: This greeting should never appear.</val>
-</record><!-- TODO -->
+</record><!-- ok -->
 <record>
 	<_id>INFO</_id>
 	<key>G^Greeting 5^13766271001667829969</key>
@@ -11380,7 +11380,7 @@
 <record>
 	<_id>INFO</_id>
 	<key>G^Greeting 5^18070182741515911818</key>
-	<val>Welcome, %PCName. Welcome, Urshilaku Nerevarine. I have only these few humble items to offer you. Or, perhaps, there is something you wish to discuss?</val><!-- TODO -->
+	<val>Welcome, %PCName. Welcome, Urshilaku Nerevarine. I have only these few humble items to offer you. Or, perhaps, there is something you wish to discuss?</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
