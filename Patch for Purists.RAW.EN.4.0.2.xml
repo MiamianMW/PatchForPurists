@@ -13011,7 +13011,7 @@ I am not alone.</val>
 	<_id>INFO</_id>
 	<key>J^DA_Mephala^1339994912576714627</key>
 	<val>Apparently, one of the Morag Tong's assassins has been taking jobs outside of the order, and the Daedra demands vengeance. If I can find this rogue assassin, Balyn Omarel, and kill him, Mephala will reward me. Of course, Mephala wishes this to be done in silence, away from nosy town guards, so I am to poison him. He lives in Balmora.</val>
-</record><!-- TODO -->
+</record><!-- ok -->
 <record>
 	<_id>INFO</_id>
 	<key>J^DA_Mephala^1747630713341527327</key>
@@ -13315,12 +13315,12 @@ I am not alone.</val>
 <record>
 	<_id>INFO</_id>
 	<key>J^HR_MudcrabNest^241282554295357312</key>
-	<val>Mudcrab Pests</val>
+	<val>Mudcrab Pests</val><!-- TODO -->
 </record>
 <record>
 	<_id>INFO</_id>
 	<key>J^HR_MudcrabNest^3082530699186753688</key>
-	<val>Drulene Falen thanked me for killing the mudcrabs that were bothering her guar.</val><!-- TODO -->
+	<val>Drulene Falen thanked me for killing the mudcrabs that were bothering her guar.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
