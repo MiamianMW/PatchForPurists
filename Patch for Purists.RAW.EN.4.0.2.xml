@@ -11652,7 +11652,7 @@
 <record>
 	<_id>INFO</_id>
 	<key>G^Greeting 5^377729379119625775</key>
-	<val>Adusamsi Assurnarairan has told me how you rescued her, and begs me to give you this as a token of her gratitude. From what she says, your task was not easy. I celebrate you, and your courage and determination. Whatever you managed to find at Rotheran is yours to keep and use in the service of the Imperial cult. Thank you again, and speak to me when you are ready to undertake another of the Oracle's Quests.</val><!-- TODO -->
+	<val>Adusamsi Assurnarairan has told me how you rescued her, and begs me to give you this as a token of her gratitude. From what she says, your task was not easy. I celebrate you, and your courage and determination. Whatever you managed to find at Rotheran is yours to keep and use in the service of the Imperial cult. Thank you again, and speak to me when you are ready to undertake another of the Oracle's Quests.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
@@ -11719,7 +11719,7 @@
 <record>
 	<_id>INFO</_id>
 	<key>G^Greeting 5^5874294311950918765</key>
-	<val>Welcome, %PCName. Welcome, Urshilaku Nerevarine. I have only these few humble items to offer you. Or, perhaps, there is something you wish to discuss?</val><!-- TODO -->
+	<val>Welcome, %PCName. Welcome, Urshilaku Nerevarine. I have only these few humble items to offer you. Or, perhaps, there is something you wish to discuss?</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
@@ -12910,7 +12910,7 @@ I am not alone.</val>
 <record>
 	<_id>INFO</_id>
 	<key>J^BM_WolfGiver^726815477153989271</key>
-	<val>I delivered the wolfsbane petals to Fallaise.</val><!-- TODO -->
+	<val>I delivered the wolfsbane petals to Fallaise.</val><!-- ok -->
 </record>
 <record>
 	<_id>INFO</_id>
