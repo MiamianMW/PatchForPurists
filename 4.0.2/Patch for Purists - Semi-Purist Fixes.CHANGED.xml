@@ -1,0 +1,30 @@
+<record>
+	<_id>FNAM</_id>
+	<key>BOOK^sc_paper plain</key>
+	<val>Paper</val>
+	<!--
+	<org>paper</org>
+
+	Glossary: [paper -> Papier BOOK^sc_paper plain]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>BOOK^sc_paper_plain_01_canodia</key>
+	<val>Paper</val>
+	<!--
+	<org>paper</org>
+
+	Glossary: [paper -> Papier BOOK^sc_paper plain]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>INGR^Ingred_timsa-come-by_01</key>
+	<val>Timsa-Come-By Flowers</val>
+	<!--
+	<org>Timsa-Come-By flowers</org>
+
+	Glossary: [Timsa-Come-By flowers -> Niewczasówka CONT^flora_plant_03]
+	-->
+</record>
